@@ -8,6 +8,12 @@ yarn init
 yarn add -D vuepress
 ```
 
+### Create new page
+
+```
+echo "# Hello VuePress" > docs/index.md
+```
+
 ### Compiles and hot-reloads for development
 ```
 yarn start
