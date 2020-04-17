@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-app",
+  "name": "torish14-blog",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -7,7 +7,7 @@
     "vuepress": "^1.4.1"
   },
   "scripts": {
-    "serve": "vuepress dev docs",
+    "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   }
 }
