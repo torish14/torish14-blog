@@ -16,7 +16,7 @@ echo "# Hello VuePress" > docs/index.md
 
 ### Compiles and hot-reloads for development
 ```
-yarn start
+yarn serve
 ```
 
 ### Compiles and minifies for production
