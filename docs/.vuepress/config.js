@@ -1,5 +1,9 @@
 module.exports = {
-  head: [["link", { rel: "stylesheet", href: "/styles/main.css" }]],
+  base: "/styleguide/",
+  head: [
+    ["link", { rel: "stylesheet", href: "/styles/adjustment-layout.css" }],
+    ["link", { rel: "stylesheet", href: "/styles/main.css" }],
+  ],
   themeConfig: {
     sidebar: [
       "/",
