@@ -1,8 +1,8 @@
 ---
 home: true 
-heroImage: /hero.png
-actionText: Get Started →
-actionLink: /buttons/md
+heroImage: images/hero.png
+actionText: ブログ一覧へ →
+actionLink: /buttons
 features: 
 - title: Simplicity First
   details: Minimal setup with markdown-centered project structure helps you focus on writing.
