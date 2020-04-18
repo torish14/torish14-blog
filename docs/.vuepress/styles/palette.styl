@@ -1,0 +1,42 @@
+// colors
+$accentColor = #7C4DFF
+$textColor = #2c3e50
+$borderColor = #eaecef
+$codeBgColor = #282c34
+$arrowBgColor = #ccc
+
+header-bgcolor = #7C4DFF
+header-color = white
+font-size = 16px
+base-font = font-size "Lucida Grande", Arial
+
+html
+  overflow-y scroll
+
+body
+  font base-font, sans-serif
+
+.navbar
+  background-color header-bgcolor
+  .site-name.can-hide
+    color header-color
+
+.navbar .links
+  background-color header-bgcolor
+  color header-color
+
+.dropdown-wrapper .dropdown-title
+  color header-color
+
+.dropdown-wrapper .nav-dropdown .dropdown-item a
+  color $textColor
+
+.nav-links a.router-link-active
+  color header-color
+  font-size 20px
+
+// layout
+$navbarHeight = 3.6rem
+$sidebarWidth = 20rem
+$contentWidth = 740px
+$homePageWidth = 960px
