@@ -30,11 +30,10 @@ module.exports = {
     searchPlaceholder: "Search...",
     nav: [
       { text: "Home", link: "/" },
-      { text: "Buttons", link: "/buttons" },
-      { text: "Typography", link: "/typography" },
-      { text: "List", link: "/list" },
+      { text: "Strengths Finder", link: "/strengths-finder" },
+      { text: "About", link: "/about" },
       {
-        text: "More",
+        text: "Contact",
         items: [
           { text: "Twitter", link: "https://twitter.com" },
           { text: "Github", link: "https://github.com" },
@@ -45,11 +44,10 @@ module.exports = {
     sidebar: [
       "/",
       // h1, h2 が表示される項目名になる
-      "/buttons",
+      "/strengths-finder",
       // 下記の記述だと h1 として表示される項目名を指定できる
       // ['/buttons', 'ボタン']
-      "/typography",
-      "list",
-    ],
-  },
+      "/about",
+    ]
+  }
 };
