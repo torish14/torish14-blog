@@ -35,9 +35,9 @@ module.exports = {
       {
         text: "Contact",
         items: [
-          { text: "Twitter", link: "https://twitter.com" },
-          { text: "Github", link: "https://github.com" },
-          { text: "Facebook", link: "https://facebook.com" },
+          { text: "Twitter", link: "https://twitter.com/torish14_str" },
+          { text: "Gmail", link: "https://gmail.com" },
+          { text: "Github", link: "https://github.com/torish14" },
         ],
       },
     ],
