@@ -1,3 +1,0 @@
-# Strenghts Finder 
-
-
